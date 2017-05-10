@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "Blank description"
 
-  s.homepage     = "http://EXAMPLE/ODataLib"
+  #s.homepage     = "http://EXAMPLE/ODataLib"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -63,7 +63,7 @@ Pod::Spec.new do |s|
   #
 
    s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+   s.platform     = :ios, "8.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
