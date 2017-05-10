@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ODataLib"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "ODataLib helps you query db server by making http calls"
 
   # This description is used to generate tags and improve search results.
@@ -96,7 +96,7 @@ Pod::Spec.new do |s|
   #
 
   #s.source       = { :git => "http://EXAMPLE/ODataLib.git", :tag => "#{s.version}" }
-  s.source       = { :git => "https://github.com/SayyedUmar/ODataLib.git", :tag => "1.0.1" }
+  s.source       = { :git => "https://github.com/SayyedUmar/ODataLib.git", :tag => "1.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
