@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "ODataLib helps you query db server by making http calls"
+  s.description  = "ODataLib helps you query db server by making http calls which can be used for future use, all I am writing is just for test so please ignore it."
 
   s.homepage     = "https://github.com/SayyedUmar/ODataLib"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
